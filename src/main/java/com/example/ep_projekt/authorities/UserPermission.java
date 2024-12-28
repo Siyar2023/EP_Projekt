@@ -1,4 +1,4 @@
-package com.example.EP_Projekt.authorities;
+package com.example.ep_projekt.authorities;
 
 public enum UserPermission {
     GET("GET"),
