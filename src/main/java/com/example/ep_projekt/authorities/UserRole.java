@@ -1,11 +1,11 @@
-package com.example.projekt_arbete.authorities;
+package com.example.ep_projekt.authorities;
 
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.example.projekt_arbete.authorities.UserPermission.*;
+
 
 public enum UserRole {
     GUEST(List.of(GET.getPermission())),
