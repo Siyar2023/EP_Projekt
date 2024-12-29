@@ -24,9 +24,6 @@ public enum UserRole {
 
     public List<SimpleGrantedAuthority> getAuthorities () {
 
-        // TODO - Roles
-        // TODO - Permissions
-        // TODO - Create List Authority (concat both roles & perms)
 
         List<SimpleGrantedAuthority> simpleGrantedAuthorityList = new ArrayList<>(
 
