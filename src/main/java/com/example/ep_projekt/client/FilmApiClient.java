@@ -1,6 +1,6 @@
 package com.example.ep_projekt.client;
 
-import com.example.projekt_arbete.model.FilmModel;
+import com.example.ep_projekt.model.FilmModel;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 import org.springframework.web.reactive.function.client.WebClient;
