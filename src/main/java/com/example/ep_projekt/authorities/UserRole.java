@@ -1,6 +1,7 @@
 package com.example.ep_projekt.authorities;
 
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
+import static com.example.ep_projekt.authorities.UserPermission.*;
 
 import java.util.ArrayList;
 import java.util.List;
