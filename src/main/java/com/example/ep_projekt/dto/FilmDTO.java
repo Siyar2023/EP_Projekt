@@ -1,6 +1,7 @@
 package com.example.ep_projekt.dto;
 // Importerar ett paket som innehåller klassen Response. Den används för att implementera interfacet Response i denna klass.
-import com.example.ep_projek.response.Response;
+import com.example.ep_projekt.response.Response;
+import com.example.ep_projekt.response.Response;
 
 // Definierar en klass FilmDTO (Data Transfer Object) som implementerar interfacet Response.
 // DTO används ofta för att överföra data mellan olika lager i en applikation.
